@@ -9,7 +9,7 @@
 ## Instalacion:
 -Podemos instalarlo bajando el archivo *Wincy.zip* y extrayendolo en la ubicacion de nuestra preferencia(Es necesario Extraer el *Wincy.exe* y *Stealth.core.dll* y tenerlos en la misma carpeta,espero para la proxima version agregar un instalador y unir el *wincy.exe* junto con el .*dll*)
 
--Enlace De descarga: 
+-Enlace De descarga: https://github.com/Alexanderrobles12/Wincy/releases/download/v0.0.0.1/Wincy.zip
 ### Licencia
 ### GPL.  
 ### (Cualquier futuro desarollo de este codigo debera ser open source)
