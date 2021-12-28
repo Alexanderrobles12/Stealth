@@ -4,7 +4,7 @@
 
 Wincy es un fork de una herramienta llamada stealth, esta fue desarollada por *Celeron533*, este trabajo dejo de ser actualizado desde Marzo del 2016.
 
-Aqui intentare darle un lavado de cara a esta herramienta ya que es muy buena en mi opnion.
+Aqui intentare darle un lavado de cara a esta herramienta ya que es muy buena en mi opinion.
 
 -Pueder revisar el trabajo original aca: https://github.com/celeron533/Stealth
 
