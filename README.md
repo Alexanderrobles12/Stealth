@@ -8,14 +8,21 @@ Aqui intentare darle un lavado de cara a esta herramienta ya que es muy buena en
 
 -Pueder revisar el trabajo original aca: https://github.com/celeron533/Stealth
 
-## Capturas de Wincy:
+## Wincy
+<p dir="auto"><a href="https://github.com/Alexanderrobles12/Wincy/releases/download/Wincy_Official_0.1/Wincy.exe" rel="nofollow"><img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" alt="English badge" width="142px" height="52px" data-canonical-src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" style="max-width: 100%;"></a></p>
 
-<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Captura%201.png" />
-<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Captura%202.png" />
+<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Captura%201.png" width="600" height="338"/>
+<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Captura%202.png" width="600" height="338"/>
 
-## Instalacion/Descarga:
+## Versiones Personalizadas:
 
-Para Poder Probar esta aplicacion pueden checar los paquetes de este repositorio ya que ahi se estaran subiendo todas las versiones posteriores.
-Paquetes:https://github.com/Alexanderrobles12/Wincy/releases
+---
+### Sherk Edition
+<p dir="auto"><a href="https://github.com/Alexanderrobles12/Wincy/releases/download/Wincy_Sherk/Wincy.Sherk.Edition.exe" rel="nofollow"><img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" alt="English badge" width="142px" height="52px" data-canonical-src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" style="max-width: 100%;"></a></p>
 
-Dross porfavor no me demandes soy tu fan
+<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Sherk%20Edition.png" width="600" height="338"/>
+
+### Asuka Version
+<p dir="auto"><a href="https://github.com/Alexanderrobles12/Wincy/releases/download/Wincy_Personalizado/Wincy.Asuka.Theme.exe" rel="nofollow"><img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" alt="English badge" width="142px" height="52px" data-canonical-src="https://github.com/Alexanderrobles12/Wincy/blob/master/Download.png" style="max-width: 100%;"></a></p>
+
+<img src="https://github.com/Alexanderrobles12/Wincy/blob/master/Asuka%20Version.png" width="600" height="338"/>
