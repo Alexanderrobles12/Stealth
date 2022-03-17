@@ -5,6 +5,7 @@
 
 
 [![GitHub release](https://img.shields.io/github/release/alexanderrobles12/wincy/all.svg)](https://github.com/alexanderrobles12/wincy/releases)
+[![Github all releases](https://img.shields.io/github/downloads/alexanderrobles12/wincy/total.svg)](https://github.com/alexanderrobles12/wincy/releases)
 [![GitHub stars](https://img.shields.io/github/stars/alexanderrobles12/wincy.svg)](https://github.com/alexanderrobles12/wincy/stargazers)
 [![Issues](https://img.shields.io/github/issues/alexanderrobles12/wincy.svg)](https://github.com/alexanderrobles12/wincy/issues)
 
