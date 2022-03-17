@@ -20,6 +20,7 @@
 Wincy nos permite dar una experiencia visual a otro nivel ajustando la transparencia a nuestro gusto.
 ## Funciones
 -Puede cambiar la transparencia de una ventana en windows.
+
 -Puede poner en primer plano sobre el escritorio algun proceso.
 ## Descargas
 
