@@ -1,16 +1,29 @@
-# Wincy
--Este es un fork de una herrmienta llamada *Stealth*
+<p align="center">
+  <img alt="Files Logo" src="src/ico.ico" width="144" />
+  <h2 align="center">Wincy</h2>
+</p>
 
--Pueder revisar el trabajo original aca: https://github.com/celeron533/Stealth
 
 
--Aqui se actualizara y se traducira al Español dandole un nuevo nombre y imagen a partir de este codigo
 
-## Desarollo
 
-Actualmente este codigo esta clasificado como una alpha ya que aun no esta completo y no se ah renovado nada de el codigo original
 
----
-### Licencia
-### GPL.  
-### (Cualquier futuro desarollo de este codigo debera ser open source)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Nota:
+Cuando empeze a hacer esta version, borre el codigo fuente y perdi el trabajo, solo me quede con esta version, me falto agregar el menu *Acerca de*
