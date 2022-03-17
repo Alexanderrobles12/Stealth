@@ -30,4 +30,7 @@ Wincy nos permite dar una experiencia visual a otro nivel ajustando la transpare
 
 [Windows_Download]: https://github.com/Alexanderrobles12/Wincy/releases/download/Wincy/Wincy.Installer.msi
 ###### Nota:
-Cuando empeze a hacer esta version, borre el codigo fuente y perdi el trabajo, solo me quede con esta version, me falto agregar el menu *Acerca de* y los creditos, quiero agradecer a *celeron533* y su proyecto *stealth* ya que como tal todo el trabajo lo hizo el, yo solo cambie el diseño
+Cuando empeze a hacer esta version, borre el codigo fuente y perdi el trabajo, solo me quede con esta version, me falto agregar el menu *Acerca de* y los creditos,
+Quiero agradecer a *celeron533* y su proyecto *stealth* ya que como tal todo el trabajo lo hizo el, yo solo cambie el diseño.
+
+La licencia, no se bien como funcione eso pero este proyecto es de codigo abierto, cualquiera puede decompilar la aplicacion para ver como sirve o editarla de la manera que quiera, como perdi el codigo no puedo publicarlo pero en cuanto logre tener lo mismo y su proyecto en visual studio lo subire.
