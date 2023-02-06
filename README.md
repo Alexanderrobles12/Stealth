@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Files Logo" src="https://github.com/Alexanderrobles12/Wincy/blob/Wincy/src/Wincy%20Icon.png" width="150" />
+  <img alt="Files Logo" src="https://github.com/Alexanderrobles12/Wincy/blob/Wincy/favicon.ico" width="150" />
   <h2 align="center">Wincy</h2>
 </p>
 
