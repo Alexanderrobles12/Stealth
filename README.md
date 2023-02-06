@@ -16,7 +16,7 @@
 
 
 ## Acerca de
-<img src="/src/Preview.png" width="600" height="338"/>
+<img src="/src/PEPPE.png" width="600" height="338"/>
 
 Wincy nos permite dar una experiencia visual a otro nivel ajustando la transparencia a nuestro gusto con una Interfaz Agradable con el Usuario
 ## Funciones
